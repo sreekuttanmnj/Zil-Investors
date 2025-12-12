@@ -92,7 +92,7 @@ export default function Home() {
       <header className="bg-white border-b border-slate-200 sticky top-0 z-50">
         <div className="container mx-auto px-4 py-4 flex justify-between items-center">
           <div className="flex items-center gap-2">
-            <img src="/images/logo_color.png" alt="Zil Money" className="h-8 w-auto" />
+            <img src="/images/logo_color.png" alt="Zil Money" className="h-10 w-auto" />
           </div>
           <nav className="hidden md:flex gap-6 text-sm font-medium text-slate-600">
             <a href="#overview" className="hover:text-primary transition-colors">Overview</a>
