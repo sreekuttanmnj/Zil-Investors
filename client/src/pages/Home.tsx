@@ -308,7 +308,7 @@ export default function Home() {
                   </div>
                   <h4 className="text-lg font-bold mb-2">{pillar.title}</h4>
                   <p className="text-sm text-slate-300 mb-4">{pillar.description}</p>
-                  <div className="inline-block bg-[#3bf493] text-white text-xs font-semibold px-2 py-1 rounded">
+                  <div className="inline-block bg-[#20319d] text-white text-xs font-semibold px-2 py-1 rounded">
                     {pillar.metric}
                   </div>
                 </div>
