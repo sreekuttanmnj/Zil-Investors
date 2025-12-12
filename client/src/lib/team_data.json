@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Sabeer Nelli",
+    "role": "Founder & CEO",
+    "bio": "Serial entrepreneur and Member of Forbes Business Council with 15 years of experience. Built Tyler Petroleum into a $60M, 200+ employee Inc 5000 company.",
+    "image": "/images/team/team_image_6.png"
+  },
+  {
+    "name": "Afzal Modak",
+    "role": "CFO",
+    "bio": "Former CFO at GE Capital and GSV Investment Fund. Alumnus of the Indian Institute of Technology.",
+    "image": "/images/team/team_image_14.png"
+  },
+  {
+    "name": "Amber Devolk",
+    "role": "CCO",
+    "bio": "Former Deputy CCO at Cross River Bank. Served as CCO and AML Officer at Behalf and Applied Data Finance.",
+    "image": "/images/team/team_image_13.png"
+  },
+  {
+    "name": "Justin Timlin",
+    "role": "COO",
+    "bio": "Investor at Blue Star Innovation Partners, Greenspring Associates, and TPG. Georgetown MBA and Venture Capital Competition World Champion.",
+    "image": "/images/team/team_image_11.jpg"
+  }
+]

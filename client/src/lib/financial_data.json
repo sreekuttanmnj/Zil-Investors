@@ -1,0 +1,898 @@
+{
+  "monthly_revenue": [
+    {
+      "month": "Dec '24",
+      "revenue": 725358.0,
+      "Subscriptions": 128371.0,
+      "Credit Rail": 366479.0,
+      "Trans. Plans": 133843.0,
+      "Others": 4743.0,
+      "Wallet": 8302.0,
+      "Embedded": 83620.0
+    },
+    {
+      "month": "Jan '25",
+      "revenue": 732027.0,
+      "Subscriptions": 147066.0,
+      "Credit Rail": 378233.0,
+      "Trans. Plans": 103180.0,
+      "Others": 3879.0,
+      "Wallet": 8389.0,
+      "Embedded": 91281.0
+    },
+    {
+      "month": "Feb '25",
+      "revenue": 675887.0,
+      "Subscriptions": 138332.0,
+      "Credit Rail": 351158.0,
+      "Trans. Plans": 89573.0,
+      "Others": 2318.0,
+      "Wallet": 8190.0,
+      "Embedded": 86316.0
+    },
+    {
+      "month": "Mar '25",
+      "revenue": 392077.0,
+      "Subscriptions": 125290.0,
+      "Credit Rail": 68666.0,
+      "Trans. Plans": 97852.0,
+      "Others": 2127.0,
+      "Wallet": 8123.0,
+      "Embedded": 90020.0
+    },
+    {
+      "month": "Apr '25",
+      "revenue": 322322.0,
+      "Subscriptions": 117610.0,
+      "Credit Rail": 0.0,
+      "Trans. Plans": 104001.0,
+      "Others": 2293.0,
+      "Wallet": 8418.0,
+      "Embedded": 90001.0
+    },
+    {
+      "month": "May '25",
+      "revenue": 313247.0,
+      "Subscriptions": 107605.0,
+      "Credit Rail": 0.0,
+      "Trans. Plans": 97940.0,
+      "Others": 1993.0,
+      "Wallet": 8000.0,
+      "Embedded": 97710.0
+    },
+    {
+      "month": "Jun '25",
+      "revenue": 346675.0,
+      "Subscriptions": 111996.0,
+      "Credit Rail": 24101.0,
+      "Trans. Plans": 104548.0,
+      "Others": 1876.0,
+      "Wallet": 9983.0,
+      "Embedded": 94171.0
+    },
+    {
+      "month": "Jul '25",
+      "revenue": 427232.0,
+      "Subscriptions": 110827.0,
+      "Credit Rail": 65782.0,
+      "Trans. Plans": 105624.0,
+      "Others": 2150.0,
+      "Wallet": 13811.0,
+      "Embedded": 129038.0
+    },
+    {
+      "month": "Aug '25",
+      "revenue": 448236.0,
+      "Subscriptions": 100852.0,
+      "Credit Rail": 104103.0,
+      "Trans. Plans": 99094.0,
+      "Others": 3000.0,
+      "Wallet": 15014.0,
+      "Embedded": 126174.0
+    },
+    {
+      "month": "Sep '25",
+      "revenue": 473165.0,
+      "Subscriptions": 126947.0,
+      "Credit Rail": 112631.0,
+      "Trans. Plans": 102488.0,
+      "Others": 1417.0,
+      "Wallet": 13057.0,
+      "Embedded": 116625.0
+    },
+    {
+      "month": "Oct '25",
+      "revenue": 483202.0,
+      "Subscriptions": 119747.0,
+      "Credit Rail": 112812.0,
+      "Trans. Plans": 110867.0,
+      "Others": 1456.0,
+      "Wallet": 13087.0,
+      "Embedded": 125233.0
+    },
+    {
+      "month": "Nov '25",
+      "revenue": 540266.0,
+      "Subscriptions": 113196.0,
+      "Credit Rail": 197980.0,
+      "Trans. Plans": 88961.0,
+      "Others": 1444.0,
+      "Wallet": 13452.0,
+      "Embedded": 125233.0
+    },
+    {
+      "month": "Mar '26",
+      "projected": 770476.49
+    },
+    {
+      "month": "Apr '26",
+      "projected": 841976.71
+    },
+    {
+      "month": "May '26",
+      "projected": 920112.14
+    }
+  ],
+  "monthly_revenue_breakdown": [
+    {
+      "month": "Dec '24",
+      "revenue": 725358.0,
+      "Subscriptions": 128371.0,
+      "Credit Rail": 366479.0,
+      "Trans. Plans": 133843.0,
+      "Others": 4743.0,
+      "Wallet": 8302.0,
+      "Embedded": 83620.0
+    },
+    {
+      "month": "Jan '25",
+      "revenue": 732027.0,
+      "Subscriptions": 147066.0,
+      "Credit Rail": 378233.0,
+      "Trans. Plans": 103180.0,
+      "Others": 3879.0,
+      "Wallet": 8389.0,
+      "Embedded": 91281.0
+    },
+    {
+      "month": "Feb '25",
+      "revenue": 675887.0,
+      "Subscriptions": 138332.0,
+      "Credit Rail": 351158.0,
+      "Trans. Plans": 89573.0,
+      "Others": 2318.0,
+      "Wallet": 8190.0,
+      "Embedded": 86316.0
+    },
+    {
+      "month": "Mar '25",
+      "revenue": 392077.0,
+      "Subscriptions": 125290.0,
+      "Credit Rail": 68666.0,
+      "Trans. Plans": 97852.0,
+      "Others": 2127.0,
+      "Wallet": 8123.0,
+      "Embedded": 90020.0
+    },
+    {
+      "month": "Apr '25",
+      "revenue": 322322.0,
+      "Subscriptions": 117610.0,
+      "Credit Rail": 0.0,
+      "Trans. Plans": 104001.0,
+      "Others": 2293.0,
+      "Wallet": 8418.0,
+      "Embedded": 90001.0
+    },
+    {
+      "month": "May '25",
+      "revenue": 313247.0,
+      "Subscriptions": 107605.0,
+      "Credit Rail": 0.0,
+      "Trans. Plans": 97940.0,
+      "Others": 1993.0,
+      "Wallet": 8000.0,
+      "Embedded": 97710.0
+    },
+    {
+      "month": "Jun '25",
+      "revenue": 346675.0,
+      "Subscriptions": 111996.0,
+      "Credit Rail": 24101.0,
+      "Trans. Plans": 104548.0,
+      "Others": 1876.0,
+      "Wallet": 9983.0,
+      "Embedded": 94171.0
+    },
+    {
+      "month": "Jul '25",
+      "revenue": 427232.0,
+      "Subscriptions": 110827.0,
+      "Credit Rail": 65782.0,
+      "Trans. Plans": 105624.0,
+      "Others": 2150.0,
+      "Wallet": 13811.0,
+      "Embedded": 129038.0
+    },
+    {
+      "month": "Aug '25",
+      "revenue": 448236.0,
+      "Subscriptions": 100852.0,
+      "Credit Rail": 104103.0,
+      "Trans. Plans": 99094.0,
+      "Others": 3000.0,
+      "Wallet": 15014.0,
+      "Embedded": 126174.0
+    },
+    {
+      "month": "Sep '25",
+      "revenue": 473165.0,
+      "Subscriptions": 126947.0,
+      "Credit Rail": 112631.0,
+      "Trans. Plans": 102488.0,
+      "Others": 1417.0,
+      "Wallet": 13057.0,
+      "Embedded": 116625.0
+    },
+    {
+      "month": "Oct '25",
+      "revenue": 483202.0,
+      "Subscriptions": 119747.0,
+      "Credit Rail": 112812.0,
+      "Trans. Plans": 110867.0,
+      "Others": 1456.0,
+      "Wallet": 13087.0,
+      "Embedded": 125233.0
+    },
+    {
+      "month": "Nov '25",
+      "revenue": 540266.0,
+      "Subscriptions": 113196.0,
+      "Credit Rail": 197980.0,
+      "Trans. Plans": 88961.0,
+      "Others": 1444.0,
+      "Wallet": 13452.0,
+      "Embedded": 125233.0,
+      "projected": 540266.0
+    },
+    {
+      "month": "Dec '25",
+      "projected": 590397.7
+    },
+    {
+      "month": "Jan '26",
+      "projected": 645181.17
+    },
+    {
+      "month": "Feb '26",
+      "projected": 705048.03
+    },
+    {
+      "month": "Mar '26",
+      "projected": 770476.49
+    },
+    {
+      "month": "Apr '26",
+      "projected": 841976.71
+    },
+    {
+      "month": "May '26",
+      "projected": 920112.14
+    }
+  ],
+  "monthly_revenue_with_projection": [
+    {
+      "month": "Dec '24",
+      "revenue": 725358.0,
+      "Subscriptions": 128371.0,
+      "Credit Rail": 366479.0,
+      "Trans. Plans": 133843.0,
+      "Others": 4743.0,
+      "Wallet": 8302.0,
+      "Embedded": 83620.0
+    },
+    {
+      "month": "Jan '25",
+      "revenue": 732027.0,
+      "Subscriptions": 147066.0,
+      "Credit Rail": 378233.0,
+      "Trans. Plans": 103180.0,
+      "Others": 3879.0,
+      "Wallet": 8389.0,
+      "Embedded": 91281.0
+    },
+    {
+      "month": "Feb '25",
+      "revenue": 675887.0,
+      "Subscriptions": 138332.0,
+      "Credit Rail": 351158.0,
+      "Trans. Plans": 89573.0,
+      "Others": 2318.0,
+      "Wallet": 8190.0,
+      "Embedded": 86316.0
+    },
+    {
+      "month": "Mar '25",
+      "revenue": 392077.0,
+      "Subscriptions": 125290.0,
+      "Credit Rail": 68666.0,
+      "Trans. Plans": 97852.0,
+      "Others": 2127.0,
+      "Wallet": 8123.0,
+      "Embedded": 90020.0
+    },
+    {
+      "month": "Apr '25",
+      "revenue": 322322.0,
+      "Subscriptions": 117610.0,
+      "Credit Rail": 0.0,
+      "Trans. Plans": 104001.0,
+      "Others": 2293.0,
+      "Wallet": 8418.0,
+      "Embedded": 90001.0
+    },
+    {
+      "month": "May '25",
+      "revenue": 313247.0,
+      "Subscriptions": 107605.0,
+      "Credit Rail": 0.0,
+      "Trans. Plans": 97940.0,
+      "Others": 1993.0,
+      "Wallet": 8000.0,
+      "Embedded": 97710.0
+    },
+    {
+      "month": "Jun '25",
+      "revenue": 346675.0,
+      "Subscriptions": 111996.0,
+      "Credit Rail": 24101.0,
+      "Trans. Plans": 104548.0,
+      "Others": 1876.0,
+      "Wallet": 9983.0,
+      "Embedded": 94171.0
+    },
+    {
+      "month": "Jul '25",
+      "revenue": 427232.0,
+      "Subscriptions": 110827.0,
+      "Credit Rail": 65782.0,
+      "Trans. Plans": 105624.0,
+      "Others": 2150.0,
+      "Wallet": 13811.0,
+      "Embedded": 129038.0
+    },
+    {
+      "month": "Aug '25",
+      "revenue": 448236.0,
+      "Subscriptions": 100852.0,
+      "Credit Rail": 104103.0,
+      "Trans. Plans": 99094.0,
+      "Others": 3000.0,
+      "Wallet": 15014.0,
+      "Embedded": 126174.0
+    },
+    {
+      "month": "Sep '25",
+      "revenue": 473165.0,
+      "Subscriptions": 126947.0,
+      "Credit Rail": 112631.0,
+      "Trans. Plans": 102488.0,
+      "Others": 1417.0,
+      "Wallet": 13057.0,
+      "Embedded": 116625.0
+    },
+    {
+      "month": "Oct '25",
+      "revenue": 483202.0,
+      "Subscriptions": 119747.0,
+      "Credit Rail": 112812.0,
+      "Trans. Plans": 110867.0,
+      "Others": 1456.0,
+      "Wallet": 13087.0,
+      "Embedded": 125233.0
+    },
+    {
+      "month": "Nov '25",
+      "revenue": 540266.0,
+      "Subscriptions": 113196.0,
+      "Credit Rail": 197980.0,
+      "Trans. Plans": 88961.0,
+      "Others": 1444.0,
+      "Wallet": 13452.0,
+      "Embedded": 125233.0,
+      "projected": 540266.0
+    },
+    {
+      "month": "Dec '25",
+      "projected": 590397.7
+    },
+    {
+      "month": "Jan '26",
+      "projected": 645181.17
+    },
+    {
+      "month": "Feb '26",
+      "projected": 705048.03
+    },
+    {
+      "month": "Mar '26",
+      "projected": 770476.49
+    },
+    {
+      "month": "Apr '26",
+      "projected": 841976.71
+    },
+    {
+      "month": "May '26",
+      "projected": 920112.14
+    }
+  ],
+  "revenue_by_product": [
+    {
+      "name": "Credit Rail",
+      "value": 1781945.0,
+      "color": "#2563eb"
+    },
+    {
+      "name": "Subscriptions",
+      "value": 1447839.0,
+      "color": "#60a5fa"
+    },
+    {
+      "name": "Embedded",
+      "value": 1255422.0,
+      "color": "#93c5fd"
+    },
+    {
+      "name": "Trans. Plans",
+      "value": 1237971.0,
+      "color": "#3b82f6"
+    },
+    {
+      "name": "Wallet",
+      "value": 127826.0,
+      "color": "#bfdbfe"
+    },
+    {
+      "name": "Others",
+      "value": 28696.0,
+      "color": "#dbeafe"
+    }
+  ],
+  "credit_rail_cohorts": [
+    {
+      "cohort": "Sep '24",
+      "size": 121,
+      "retention": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "cohort": "Oct '24",
+      "size": 157,
+      "retention": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "cohort": "Nov '24",
+      "size": 256,
+      "retention": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "cohort": "Dec '24",
+      "size": 1704,
+      "retention": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "cohort": "Jan '25",
+      "size": 92,
+      "retention": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "cohort": "Feb '25",
+      "size": 69,
+      "retention": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "cohort": "Mar '25",
+      "size": 14,
+      "retention": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "cohort": "Jun '25",
+      "size": 8,
+      "retention": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "cohort": "Jul '25",
+      "size": 36,
+      "retention": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "cohort": "Aug '25",
+      "size": 28,
+      "retention": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "cohort": "Sep '25",
+      "size": 12,
+      "retention": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "cohort": "Oct '25",
+      "size": 23,
+      "retention": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    }
+  ],
+  "wallet_cohorts": [
+    {
+      "cohort": "Dec '23",
+      "size": 217,
+      "retention": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "cohort": "Jan '24",
+      "size": 91,
+      "retention": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "cohort": "Feb '24",
+      "size": 111,
+      "retention": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "cohort": "Mar '24",
+      "size": 68,
+      "retention": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "cohort": "Apr '24",
+      "size": 80,
+      "retention": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "cohort": "May '24",
+      "size": 52,
+      "retention": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "cohort": "Jun '24",
+      "size": 33,
+      "retention": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "cohort": "Jul '24",
+      "size": 47,
+      "retention": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "cohort": "Aug '24",
+      "size": 39,
+      "retention": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "cohort": "Sep '24",
+      "size": 45,
+      "retention": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "cohort": "Oct '24",
+      "size": 87,
+      "retention": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "cohort": "Nov '24",
+      "size": 97,
+      "retention": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    }
+  ]
+}

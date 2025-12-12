@@ -1,0 +1,8 @@
+{
+  "credit_rail_nrr": 112.5,
+  "wallet_nrr": 108.3,
+  "embedded_nrr": 124.7,
+  "six_month_growth": 42.8,
+  "last_6_months_revenue": [290000, 310000, 330000, 360000, 390000, 420000],
+  "last_6_months_names": ["Jun '25", "Jul '25", "Aug '25", "Sep '25", "Oct '25", "Nov '25"]
+}
