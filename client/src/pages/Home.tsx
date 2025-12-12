@@ -100,7 +100,7 @@ export default function Home() {
             <a href="#strategy" className="hover:text-primary transition-colors">Strategy</a>
             <a href="#ask" className="hover:text-primary transition-colors">The Ask</a>
           </nav>
-          <Button className="bg-primary hover:bg-primary/90 text-primary-foreground">
+          <Button className="bg-primary hover:bg-primary/90 text-primary-foreground" onClick={() => window.open("https://calendly.com/zmvc/ir", "_blank")}>
             Set up Meeting
           </Button>
         </div>
@@ -472,7 +472,7 @@ export default function Home() {
               <p className="text-primary-foreground/90">
                 We remain profitable. This capital will scale growth marketing, hire a dedicated enterprise sales team, and capture the $1B+ embedded finance opportunity.
               </p>
-              <Button variant="secondary" className="w-full font-bold group">
+              <Button variant="secondary" className="w-full font-bold group" onClick={() => window.open("https://calendly.com/zmvc/ir", "_blank")}>
                 Request Meeting <ArrowRight className="ml-2 h-4 w-4 group-hover:translate-x-1 transition-transform" />
               </Button>
             </CardContent>
