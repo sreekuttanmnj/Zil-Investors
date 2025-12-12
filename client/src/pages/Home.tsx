@@ -284,14 +284,14 @@ export default function Home() {
             <h2 className="text-3xl font-bold mb-6">Strategic Transition</h2>
             <div className="grid md:grid-cols-2 gap-8 mb-12">
               <div className="space-y-4">
-                <h3 className="text-xl font-semibold text-blue-400">The Shift</h3>
+                <h3 className="text-xl font-semibold text-[#3bf493]">The Shift</h3>
                 <p className="text-slate-300 leading-relaxed">
                   We intentionally deprecated legacy subscription plans to transition customers to our high-margin Wallet product. 
                   Transactional fluctuations are now captured by wallet deposits, turning dormant users into revenue generators.
                 </p>
               </div>
               <div className="space-y-4">
-                <h3 className="text-xl font-semibold text-blue-400">The Resolution</h3>
+                <h3 className="text-xl font-semibold text-[#3bf493]">The Resolution</h3>
                 <p className="text-slate-300 leading-relaxed">
                   Credit rail capacity issues (Apr-Nov '25) are fully resolved. We now have unlimited capacity across 
                   2 processors and 2 banks, positioning us to exceed historical highs within 2 months.
@@ -308,7 +308,7 @@ export default function Home() {
                   </div>
                   <h4 className="text-lg font-bold mb-2">{pillar.title}</h4>
                   <p className="text-sm text-slate-300 mb-4">{pillar.description}</p>
-                  <div className="inline-block bg-blue-600/30 text-blue-200 text-xs font-semibold px-2 py-1 rounded">
+                  <div className="inline-block bg-[#3bf493] text-[#20319D] text-xs font-semibold px-2 py-1 rounded">
                     {pillar.metric}
                   </div>
                 </div>
