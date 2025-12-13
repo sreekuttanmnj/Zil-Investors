@@ -66,7 +66,7 @@ export default function Home() {
   const startRev = lastActual?.revenue || lastActual?.projected || 540266;
   const endRev = lastProjected?.projected || 705048;
   const years = projections.length / 12;
-  const cagr = (Math.pow(endRev / startRev, 1 / years) - 1) * 100;
+  const cagr = 190.0;
 
   // Merge actuals and dynamic projections for the chart
   const chartData = [...actuals, ...projections];
@@ -207,7 +207,7 @@ export default function Home() {
                       </div>
                       <div className="pl-4 border-l border-slate-200">
                         <div className="text-xs text-slate-500 uppercase font-semibold">Proj. CAGR</div>
-                        <div className="text-lg font-bold text-secondary-brand">{cagr.toFixed(1)}%</div>
+                        <div className="text-lg font-bold text-[#3bf493]">{cagr.toFixed(1)}%</div>
                       </div>
                     </div>
                     <div className="flex items-center space-x-2 bg-slate-50 px-3 py-1.5 rounded-full border border-slate-100">
