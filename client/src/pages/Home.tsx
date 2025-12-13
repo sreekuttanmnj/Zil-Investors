@@ -183,7 +183,7 @@ export default function Home() {
           <div className="grid grid-cols-1 lg:grid-cols-3 gap-6">
             <Card className="lg:col-span-2 shadow-sm">
               <CardHeader>
-                <div className="flex justify-between items-start">
+                <div className="flex flex-col md:flex-row justify-between items-start gap-6">
                   <div>
                     <CardTitle>Monthly Revenue Recovery</CardTitle>
                     <CardDescription>
