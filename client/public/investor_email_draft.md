@@ -1,23 +1,19 @@
-Subject: Zil Money: Transition Complete, Profitable & Scaling (112%+ NRR)
+Subject: Zil Money: The Financial OS for SMBs (Profitable & Scaling with 112%+ NRR)
 
 Hi [Investor Name],
 
-I wanted to share a quick update on Zil Money. We have successfully completed our transition from a transactional model to a sticky, high-margin financial operating system for SMBs.
+I’m writing to introduce Zil Money, the financial operating system designed to empower modern small and medium-sized businesses (SMBs). We provide a unified platform that simplifies payroll, payables, and receivables, allowing businesses to manage their cash flow with unprecedented control and efficiency.
 
-**Key Highlights:**
-- **Revenue Recovery:** We are back to unlimited capacity following our planned credit rail transition.
-- **Strong Retention:** Our core products are demonstrating exceptional Net Revenue Retention (NRR), validating our "land and expand" strategy:
-  - **Embedded Payments:** 124.7% NRR
-  - **Credit Rail:** 112.5% NRR
-  - **Wallet:** 108.3% NRR
-- **Growth:** +42.8% revenue growth over the last 6 months.
+We have successfully completed our strategic transition from a transactional model to a sticky, high-margin ecosystem. This shift is already delivering exceptional results, validated by strong Net Revenue Retention (NRR) across our core product lines:
+- **Embedded Payments:** 124.7% NRR
+- **Credit Rail:** 112.5% NRR
+- **Wallet:** 108.3% NRR
 
-**The Opportunity:**
-We are raising $10M to scale our growth marketing and hire a dedicated enterprise sales team. With our compliance framework solidified (partnerships with Lincoln Savings Bank & Texas National Bank) and a proven product-market fit, we are ready to accelerate.
+With our compliance framework solidified through partnerships with Lincoln Savings Bank and Texas National Bank, and a proven product-market fit, we are now raising $10M to scale our growth marketing and expand our enterprise sales team.
 
-You can view our full investor dashboard here: [Link to Dashboard]
+You can view our investor prospectus here: https://investors.zilmoney.com/
 
-I’d love to walk you through our projections and product roadmap. Are you available for a brief call next Tuesday or Thursday?
+Our detailed financial model, KPIs, and audited statements are available upon request. I’d love to connect and discuss how we are reshaping SMB finance. Are you available for a brief call next Tuesday or Thursday?
 
 Best,
 
