@@ -20,7 +20,7 @@ The following documents are available upon request:
 - Key Performance Indicators (KPIs)
 - Audited Financial Statements
 
-I’d love to connect and discuss how we are reshaping SMB finance. Are you available for a brief call next Tuesday or Thursday?
+I’d love to connect and discuss how we are reshaping SMB finance. You can book a time to connect here: https://calendly.com/zmvc/ir, or via the link in the prospectus.
 
 Best,
 
