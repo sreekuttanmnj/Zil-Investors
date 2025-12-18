@@ -11,7 +11,7 @@ Our core product lines are demonstrating strong Net Revenue Retention (NRR), val
 - **Credit Rail:** 145.2% NRR (New Cohorts)
 - **Wallet:** 125.9% NRR (New Cohorts)
 
-With our compliance framework solidified through partnerships with Lincoln Savings Bank and Texas National Bank, and a proven product-market fit, we are now raising $10M to scale our growth marketing and expand our enterprise sales team.
+With our operating model solidified through partnerships with **Cross River Bank**, **Lincoln Savings Bank**, and **Texas National Bank**, and a proven product-market fit, we are now raising $10M to scale our growth marketing and expand our enterprise sales team.
 
 You can view our investor prospectus here: https://investors.zilmoney.com/
 
@@ -24,5 +24,5 @@ I’d love to connect and discuss how we are reshaping SMB finance. You can book
 
 Best,
 
-[Founder Name]
-CEO, Zil Money
+Justin Timlin
+COO, Zil Money
